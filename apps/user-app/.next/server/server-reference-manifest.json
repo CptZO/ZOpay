@@ -1,0 +1,22 @@
+{
+  "node": {
+    "bafbf148df051ec07d7cc0155a5dc0203be9751b": {
+      "workers": {
+        "app/(dashboard)/transfer/page": "(action-browser)/../../node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cojasv%5C%5CAppData%5C%5CLocal%5C%5CProject%5C%5CZOpay%5C%5Capps%5C%5Cuser-app%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5CcreateOnRamptxn.ts%22%2C%5B%22createOnRampTransaction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(dashboard)/transfer/page": "action-browser"
+      }
+    },
+    "4d92b886fe1eb5b3a049833ef0184b989b16d9a6": {
+      "workers": {
+        "app/(dashboard)/p2p/page": "(action-browser)/../../node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cojasv%5C%5CAppData%5C%5CLocal%5C%5CProject%5C%5CZOpay%5C%5Capps%5C%5Cuser-app%5C%5Capp%5C%5Clib%5C%5Cactions%5C%5Cp2pTransfer.ts%22%2C%5B%22p2pTransfer%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/(dashboard)/p2p/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "bwKVSsHaTnKe86odPLOqsTuBEWa2A8A+wMt8C0aoUGQ="
+}
